@@ -12,7 +12,11 @@ This guide walks you through how to contribute your weekly competitive programmi
 - In the top-right corner of the page, click **Fork**.
 <img width="1440" height="357" alt="image" src="https://github.com/user-attachments/assets/802d2929-ddf0-45b1-8811-5efe0c9fbf32" />
 
-- This creates a personal copy of the repo under your GitHub account.
+- Under "Owner," select the dropdown menu and click an owner for the forked repository.
+
+- By default, forks are named the same as their upstream repositories.
+
+- Click **Create fork**.
 
 ---
 
@@ -21,8 +25,8 @@ This guide walks you through how to contribute your weekly competitive programmi
 Open terminal and run:
 
 ```bash
-git clone https://github.com/<your-username>/SOC_CP.git
-cd SOC_CP
+git clone <url of your fork>
+cd <folder>
 ````
 
 ---
